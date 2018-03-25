@@ -1753,8 +1753,15 @@ body {
 .cid-qNlgKaxCyY .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qNlkDQEj0M {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-qNllxXdEmt {
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+}
+.cid-qNllxXdEmt .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-qNllxXdEmt H1 {
+  text-align: left;
+}
+.cid-qNllxXdEmt H3 {
+  text-align: left;
 }
