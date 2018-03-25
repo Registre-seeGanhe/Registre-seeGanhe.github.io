@@ -1372,13 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qNlelJ9qki {
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
-}
-.cid-qNlelJ9qki .mbr-text,
-.cid-qNlelJ9qki .mbr-section-btn {
-  text-align: left;
-}
 .cid-qNlgKaxCyY .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1759,4 +1752,9 @@ body {
 .cid-qNlgKaxCyY .nav-link:hover,
 .cid-qNlgKaxCyY .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-qNlkDQEj0M {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
